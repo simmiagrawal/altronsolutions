@@ -717,12 +717,18 @@ section {
 .logo-nav {
 	float: left;
 	line-height: 60px;
+	background-color:rgba(255, 255, 255, 0);
+}
+
+/*.logo-nav {
+	float: left;
+	line-height: 60px;
 	margin-left: -160px;
 	margin-right: -600px;
 	margin-top: 15px;
 	
 	background-color:rgba(255, 255, 255, 0);
-}
+}*/
 
 
 /*-----------------------------------------------------------------*/
@@ -1370,7 +1376,7 @@ ul.timeline {
 }
 .timeline .timeline-item h6 {
 	color: #FFF;
-	font-size: 40px;
+	font-size: 15px;
 	font-weight: bold;
 }
 
@@ -1902,7 +1908,7 @@ ul.timeline {
 }
 
 .panel-group .panel-heading {
-
+	cursor: ;
 	padding: 15px 15px;
 }
 
