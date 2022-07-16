@@ -2103,7 +2103,7 @@ ul.timeline {
 	font-size:19px;
 	line-height: 36px;
 	margin-bottom: 30px;
-	font-style: italic;
+
 	font-family: "Roboto";
 }
 
@@ -2111,6 +2111,7 @@ ul.timeline {
 	color:#FFF;
 	font-weight: 600;
 	margin-top:20px;
+	font-style: italic;
 	font-size: 18px;
 }
 
